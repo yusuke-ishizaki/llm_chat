@@ -14,7 +14,7 @@ build==1.2.2.post1
 cachetools==5.5.2
 certifi==2025.1.31
 charset-normalizer==3.4.1
-chromadb==0.6.2
+chromadb==0.6.3 --no-binary=chroma-hnswlib
 click==8.1.8
 coloredlogs==15.0.1
 dataclasses-json==0.6.7
